@@ -4,7 +4,7 @@
 
 1. Nafisa Islam — @nafisa9518-rgb
 2. Anikah akbar — @GitHubUsername
-3. Sabnoor Sania — @GitHubUsername
+3. Sabanoor Sania — @GitHubUsername
 4. Nobodipta Naha — @GitHubUsername
 
 ## Project Description
