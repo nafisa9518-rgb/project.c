@@ -3,9 +3,9 @@
 ## Group Members
 
 1. Nafisa Islam — @nafisa9518-rgb
-2. Member 2 Name — @GitHubUsername
-3. Member 3 Name — @GitHubUsername
-4. Member 4 Name — @GitHubUsername
+2. Anikah akbar — @GitHubUsername
+3. Sabnoor Sania — @GitHubUsername
+4. Nobodipta Naha — @GitHubUsername
 
 ## Project Description
 
